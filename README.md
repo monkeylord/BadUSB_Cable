@@ -31,7 +31,7 @@ If you don't need reflashing, you can just ignore `R1` and `SW1`, and you only n
 
 1. USB长壳 / USB Shell Long
 2. 单头四芯USB线 / Single End USB Cable
-3. 任意直插式元件（只用引脚） / Pins (Legs for other compenent)
+3. 任意直插式元件（只用引脚） / Pins (Legs donation from other compenent)
 
 焊接如下 / solder like this：
 
