@@ -13,7 +13,7 @@ A cheap but powerful CH55x BadUSB Cable with SL2.1s USBHUB, which makes the cabl
 
 **PCB**
 
-![PCB](C:\workshop\BadUSB_Cable\image\PCB.png)
+![PCB](image/PCB.png)
 
 如果嫌麻烦的话可以直接下单 https://oshwhub.com/monkeylord/badusb-cable  厚度选0.8mm
 
@@ -35,9 +35,9 @@ If you don't need reflashing, you can just ignore `R1` and `SW1`, and you only n
 
 焊接如下 / solder like this：
 
-![Shell_Step1](.\image\Shell_Step1.jpg)
+![Shell_Step1](image/Shell_Step1.jpg)
 
-![Shell_Step2](.\image\Shell_Step2.jpg)
+![Shell_Step2](image/Shell_Step2.jpg)
 
 ## 载荷 / Payload
 
