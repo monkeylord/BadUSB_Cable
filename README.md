@@ -80,4 +80,4 @@ You may need some tools like tweezer, for SW1 is really small.
 
 https://github.com/joelsernamoreno/BadUSB-Cable for inspiration
 
-https://github.com/jobitjoseph/CH55XDuino for arduino IDE environment
+https://github.com/DeqingSun/ch55xduino for arduino IDE environment
