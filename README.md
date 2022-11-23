@@ -43,7 +43,7 @@ If you don't need reflashing, you can just ignore `R1` and `SW1`, and you only n
 
 **要求 / Requirement**
 
-1. CH55xDuino : https://github.com/jobitjoseph/CH55XDuino
+1. CH55xDuino : https://github.com/DeqingSun/ch55xduino
 2. WCHISPTool : https://www.wch.cn/downloads/WCHISPTool_Setup_exe.html
 
 **编程 / Programming**
